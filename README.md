@@ -5,6 +5,7 @@
 
 🌱 Currently Learning:
   Actively expanding my coding skills to enhance my proficiency in various programming languages.
+  
 🛠️ Professional Experience:
 
 Software Developer at PearlThoughts:
@@ -14,7 +15,7 @@ Contributed to UniStock, an Android-based E-Commerce app for the pharmaceutical 
 Automation Tester at TCS:
 Automated health check-up script for Tata Pay using Selenium Java and Cucumber, conducting API automation tests on UPI and Net banking.
 Streamlined form-filling on web pages for the CSM Project at KPMG, utilizing the robot framework built over Python, reducing manual testing efforts significantly.
-📫 How to Reach Me:
 
+📫 How to Reach Me:
 LinkedIn: https://www.linkedin.com/in/kattula-pavan-kumar-a2434714b/
 Email: pavan49450@gmail.com

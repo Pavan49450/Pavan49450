@@ -16,5 +16,5 @@ Automated health check-up script for Tata Pay using Selenium Java and Cucumber, 
 Streamlined form-filling on web pages for the CSM Project at KPMG, utilizing the robot framework built over Python, reducing manual testing efforts significantly.
 📫 How to Reach Me:
 
-LinkedIn: Kattula Pavan Kumar
+LinkedIn: https://www.linkedin.com/in/kattula-pavan-kumar-a2434714b/
 Email: pavan49450@gmail.com

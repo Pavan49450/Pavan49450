@@ -12,9 +12,10 @@ Software Developer at PearlThoughts:
 Developed a sophisticated web application, Schedula-web, using Next.js and Nest.js, facilitating seamless appointment scheduling for patients and doctors.
 Contributed to UniStock, an Android-based E-Commerce app for the pharmaceutical industry, focusing on login/signup pages and UI feature implementation with Scrum and Jira.
 
-Automation Tester at TCS:
-Automated health check-up script for Tata Pay using Selenium Java and Cucumber, conducting API automation tests on UPI and Net banking.
-Streamlined form-filling on web pages for the CSM Project at KPMG, utilizing the robot framework built over Python, reducing manual testing efforts significantly.
+Assistant System Engineer at TCS:
+Spearheaded the development of the payments component in the Tata-Pay application, utilizing React to enhance the overall user experience and seamlessly integrating APIs, speciUcally focusing on UPI and Net banking functionalities for robust and secure payment processes. 
+Took on a key role in performance enhancement initiatives, implementing optimizations to improve the Tata-Pay application7s responsiveness and efficiency. 
+Applied React expertise to the frontend development of forms in the CSM project, creating intuitive and visually appealing interfaces to optimize user interactions.
 
 📫 How to Reach Me:
 LinkedIn: https://www.linkedin.com/in/kattula-pavan-kumar-a2434714b/

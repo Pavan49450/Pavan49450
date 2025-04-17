@@ -25,6 +25,6 @@ Jan 2022 — Aug 2023
 Spearheaded the development of the payments component in the Tata-Pay application, utilizing React to enhance the overall user experience and integrating APIs, specifically for UPI and Net banking functionalities. Implemented performance enhancements to improve Tata-Pay application responsiveness and efficiency. Applied React expertise to frontend development in the CSM project, creating intuitive and visually appealing forms to optimize user interactions.
 
 📫 How to Reach Me:
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/kattula-pavan-kumar-a2434714b/
 📧 Email: pavan49450@gmail.com
-🌐 Portfolio: kattula-pavan-kumar.vercel.app
+🌐 Portfolio: https://kattula-pavan-kumar.vercel.app

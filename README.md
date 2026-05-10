@@ -1,30 +1,42 @@
-👋 Hi, I’m Pavan Kumar Kattula - @Pavan49450
+# Hey, I'm Pavan Kumar Kattula 👋
 
-👀 Interests:
-Passionate about the convergence of arts and technology, with a keen interest in dancing, singing, and coding.
+**Full Stack & AI Integration Engineer** based in Hyderabad, India.  
+I build production-grade SaaS platforms, RAG-powered AI agents, and 
+complex payment systems — across EdTech, FinTech, and renewable energy.
 
-🌱 Currently Learning:
-Actively expanding my coding skills to enhance my proficiency in various programming languages.
+---
 
-🛠️ Professional Experience:
+## 🚀 What I Build
 
-Software Developer — Hyderabad
-Aug 2024 – Current
-Contributed to developing an innovative solar pile foundation design tool, automating calculations and iterations to optimize solar project foundations. Enhanced user experience with features like detailed user dashboards, project management, project review, in-app notifications, and activity log features
+- **RAG Pipelines & Agentic AI** — Pinecone · LangChain · OpenAI · Node.js  
+- **Multi-Tenant SaaS Platforms** — React · TypeScript · NestJS · MongoDB  
+- **Payment Architecture** — Stripe Webhooks · UPI · Net Banking · PCI-compliant APIs  
+- **Real-Time Systems** — Socket.IO · WebSockets · Event-driven architecture  
 
-Frontend Developer, VRPI — Hyderabad
-Feb 2024 – Jul 2024
-Spearheaded front-end development initiatives to craft an innovative EdTech application, democratizing access to quality education through affordable courses tailored for students from diverse backgrounds. Developed the official website for VRPI Group of Companies, showcasing the conglomerate's cutting-edge solutions and seamless import-export services to a global audience
+---
 
-Software Developer, PearlThoughts - Chennai
-Sep 2023 — Jan 2024  
-Developed a sophisticated web application, Schedula-web, using Next.js and Nest.js, facilitating seamless appointment scheduling for patients and doctors. Contributed to UniStock, an Android-based E-Commerce app for the pharmaceutical industry, focusing on login/signup pages and UI feature implementation with Scrum and Jira.
+## 🏆 Highlights
 
-Assistant System Engineer, TCS - Kolkatha
-Jan 2022 — Aug 2023
-Spearheaded the development of the payments component in the Tata-Pay application, utilizing React to enhance the overall user experience and integrating APIs, specifically for UPI and Net banking functionalities. Implemented performance enhancements to improve Tata-Pay application responsiveness and efficiency. Applied React expertise to frontend development in the CSM project, creating intuitive and visually appealing forms to optimize user interactions.
+- 🛡️ Official appreciation from the **Indian Air Force** for defense-grade software delivery
+- 🥇 Ranked **#1 of 50+ engineers** in TCS software development training
+- 🤖 Built a production RAG AI Helpdesk (LangChain + Pinecone + OpenAI) → **90% drop in support queries**
+- ⚡ Stripe webhook pipeline → invoice processing from **3–5 days to under 5 seconds**
 
-📫 How to Reach Me:
-LinkedIn: https://www.linkedin.com/in/kattula-pavan-kumar-a2434714b/
-📧 Email: pavan49450@gmail.com
-🌐 Portfolio: https://kattula-pavan-kumar.vercel.app
+---
+
+## 🛠️ Stack
+
+Frontend   → React · Next.js · React Native · TypeScript · Tailwind CSS · Redux
+Backend    → Node.js · NestJS · Express · REST APIs · Socket.IO
+AI / ML    → LangChain · Pinecone · OpenAI API · RAG Pipelines · Prompt Engineering
+Databases  → MongoDB · PostgreSQL · MySQL
+Payments   → Stripe · Razorpay · UPI · Net Banking · Webhook Pipelines
+DevOps     → Docker · GitHub Actions · Azure · CI/CD
+
+---
+
+## 📫 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kattula-pavan-kumar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kattula-pavan-kumar-a2434714b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavank.kattula@gmail.com)
